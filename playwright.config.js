@@ -18,7 +18,7 @@ module.exports = defineConfig({
   use: {
     baseURL: 'https://www.eskooly.com',
 
-    headless: false, // change to true in CI
+    headless: true, // change to true in CI
 
     viewport: { width: 1280, height: 720 },
 
