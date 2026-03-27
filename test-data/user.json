@@ -1,4 +1,16 @@
-{
-  "email": "detailsuser.registered@gmail.com",
-  "password": "Nisha@2101"
+
+
+  {
+  "validUser": {
+    "email": "detailsuser.registered@gmail.com",
+    "password": "Nisha@2101"
+  },
+  "invalidUser": {
+    "email": "wrong@email.com",
+    "password": "wrong123"
+  },
+  "emptyUser": {
+    "email": "",
+    "password": ""
+  }
 }
